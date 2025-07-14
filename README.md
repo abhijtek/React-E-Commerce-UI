@@ -1,12 +1,27 @@
-# React + Vite
+# 🛒 React E-Commerce UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and modern e-commerce frontend built using React and Redux Toolkit.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+- **React** (with functional components & hooks)
+- **Redux Toolkit** (state management)
+- **React Router** (page navigation)
+- **Bootstrap** (styling & layout)
+- **Vite** (build tool for fast development)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 How to Run This Project Locally
+
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/abhijtek/React-E-Commerce-UI.git
+   
+2. Navigate to terminal of folder and run this : cd React-E-Commerce-UI
+3. Install dependencies : npm install
+4. Run development server : npm run dev
+5. Open app in your browser : http://localhost:5173
+   
